@@ -1,6 +1,6 @@
-https://www.freecodecamp.org/news/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec/amp/?__twitter_impression=true
+ https://www.freecodecamp.org/news/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec/amp/?__twitter_impression=true
 
-https://www.cactuscon.com/2021-talks-and-workshops/introduction-to-car-hacking-basics
+ https://www.cactuscon.com/2021-talks-and-workshops/introduction-to-car-hacking-basics
 
 https://github.com/jaredthecoder/awesome-vehicle-security
 
