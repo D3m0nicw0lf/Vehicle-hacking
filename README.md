@@ -17,4 +17,6 @@ Car hacking is the manipulation of the code in a car's electronic control unit (
 
 **click me =>** [video](https://youtu.be/nn-_3AbtEkI)
 
+**click me =>** [tools for car hacking by jgamblin ](https://github.com/jgamblin/CarHackingTools)
+
 ---
